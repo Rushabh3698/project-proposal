@@ -1,6 +1,6 @@
 # FitFoks Research Proposal
 
-## -Rushabh Patek
+## -Rushabh Patel
 
 ## Project Motivation
 
