@@ -49,7 +49,7 @@ During my research I came across many different fitness applications, but I've s
 - [iOS Basically: Reusable UIView - Programming in Swift (Part 1)](https://www.youtube.com/watch?v=o3MawJVxTgk)
 - [iOS Basically: Reusable UIView - Programming in Swift (Part 2)](https://www.youtube.com/watch?v=2ESU5hVRBPc)
 - [SwiftUI Tutorial - How to create reusable components and write less code with SwiftUI - Part 6](https://www.youtube.com/watch?v=ds_PJAVhz6g)
-- [iOS 13 Swift Tutorial: Build a Complex UI with SwiftUI from Start to Finish](https://www.youtube.com/watch?v=Xetrbmnszjc)
+- [Custom Reusable UIButton in Swift (STEP BY STEP)](https://www.youtube.com/watch?v=4EwoM0hO1RQ)
 - [Furniture Shop App UI - SwiftUI - Speed Code](https://www.youtube.com/watch?v=EbTl0GX-bvw)
 
 
